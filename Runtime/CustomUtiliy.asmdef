@@ -1,3 +1,14 @@
 {
-	"name": "CustomUtiliy"
+    "name": "CustomUtiliy",
+    "rootNamespace": "LEETest",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
