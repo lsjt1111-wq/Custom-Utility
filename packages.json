@@ -1,0 +1,10 @@
+{
+  "name": "com.test.utility",
+  "displayName": "Custom Utility",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Utility Sanple.",
+  "keywords": [
+    "utilty"
+  ]
+}
